@@ -1,5 +1,5 @@
 # Introduction: 
-Hello Everyone, and welcome to Saudi society for Bioinformatics and computational biology (SSBCB)  fisrt workshop. 
+Welcome to Saudi society for Bioinformatics and computational biology (SSBCB)  fisrt workshop. 
 Today, we will talk about an introduction to linux for biologist. 
 
 ![pic](https://www.genengnews.com/wp-content/uploads/2019/11/Nov1_2019_shutterstock_1084540790_GeneticResearch-e1572877968584.jpg)
@@ -67,9 +67,7 @@ https://swcarpentry.github.io/shell-novice/setup.html
 
 ## b.	Acess Linux (MacOS, windows (ubuntu, wsl and virtual machine) 
 To access the command line in Linux, you will need to open a terminal window. can usually be done by pressing Ctrl+Alt+T or by searching for "terminal" in the start menu or application launcher.
-Once you have a terminal window open, you can enter commands by typing them in and pressing Enter. Some basic commands you might use include:
--	```ls ```: list the contents of a directory
--	```cd```: change the current directory
+Once you have a terminal window open, you can enter commands by typing them in and pressing Enter. 
 
 ## c. The Shell:
 
