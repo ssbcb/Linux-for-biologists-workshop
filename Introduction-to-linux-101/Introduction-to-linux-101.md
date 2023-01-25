@@ -5,7 +5,7 @@ Today, we will talk about an introduction to linux for biologist.
 ![pic](https://www.genengnews.com/wp-content/uploads/2019/11/Nov1_2019_shutterstock_1084540790_GeneticResearch-e1572877968584.jpg)
 
 
-## but first, What is the difference between Bioinformatics and computational biology ?? 
+## But first, What is the difference between Bioinformatics and computational biology ?? 
 
 
 ### Bioinformatics: 
@@ -19,10 +19,10 @@ Today, we will talk about an introduction to linux for biologist.
 
 
 
-## Another question: why there are Bioinformaticians and Bioinformaticist ? 
+## Bioinformaticians and Bioinformaticist ? 
 - Bioinformatician: is a skilled person who only utilize bioinformatics tools and softwares. 
 
-- Bioinformaticist: is a specialist who uses bioinformatics tools and, knows hoe to write codes and programs for the effectiveness of the tools. 
+- Bioinformaticist: is a specialist who uses bioinformatics tools and, knows how to write codes and programs. 
 
 ------
 
