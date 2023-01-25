@@ -87,6 +87,10 @@ $
 # 3.	Basic Linux commands:
 Cheat sheet: A list of basic Linux commands and their usage (e.g. https://www.guru99.com/linux-commands-cheat-sheet.html) 
 
+```
+git clone https://github.com/ssbcb/Linux-for-biologists-workshop
+```
+
 ## a.	Navigating the file system:
 ![filesystem](https://www.testingdocs.com/wp-content/uploads/Linux-File-System.png)
 
@@ -138,9 +142,6 @@ https://linuxize.com/post/understanding-linux-file-permissions/
 
 ## C.	Creating and managing files and directories: 
 
-```
-git clone https://github.com/ssbcb/Linux-for-biologists-workshop
-```
 - Creating and managing files and directories To create and manage files and directories in Linux, you can use the following commands:
     - ```touch``` create a new file
     - ```mkdir``` create a new directory
