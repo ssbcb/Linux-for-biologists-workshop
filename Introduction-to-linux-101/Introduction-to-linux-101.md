@@ -155,10 +155,3 @@ https://linuxize.com/post/understanding-linux-file-permissions/
 - https://swcarpentry.github.io/shell-novice/ 
 - https://explainshell.com/explain?cmd=ls+-l 
 
-
-
-----
-# meeting notes: 
--  Bioinformatics, computational biology , Bioinformatician and bioinformatics 
-- the installation plan: before the session + https://bellard.org/jslinux/ 
--  in thhe nexxt workshop: Using wildcards and pipes to manipulate data In Linux, you can use wildcards (e.g. *) to match multiple files
