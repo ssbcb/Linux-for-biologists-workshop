@@ -139,6 +139,10 @@ https://www.cyberciti.biz/faq/unix-linux-bsd-chmod-numeric-permissions-notation-
 https://linuxize.com/post/understanding-linux-file-permissions/
 
 ## C.	Creating and managing files and directories: 
+
+```
+git clone https://github.com/ssbcb/Linux-for-biologists-workshop
+```
 - Creating and managing files and directories To create and manage files and directories in Linux, you can use the following commands:
     - ```touch``` create a new file
     - ```mkdir``` create a new directory
